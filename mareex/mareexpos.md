@@ -10,5 +10,6 @@
 - Reporte de Gastos ampliado
 - Mejora en el receptor de IMAP para agregar notas de error
 - Nuevo modulo de Recepción Error que permite ver cuando no se registran los gastos
+- Corrección en el validador de documentos para factura de compra simplificado
 
 
