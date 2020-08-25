@@ -1,2 +1,2 @@
-# Mareex Soft Restaurant / Soft Hotel / Eleventa / MareexPOS
+# Mareex Soft Restaurant 
 
