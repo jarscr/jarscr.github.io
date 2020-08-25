@@ -2,7 +2,7 @@
 
 ## Release
 ```
-<a href="/mareex/home">Versiones</a>
+[Mareex](https://jarscr.github.io/mareex/home#release)
 ```
 
 ### Version 1 R1 2020-08-25
