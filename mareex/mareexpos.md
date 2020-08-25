@@ -14,4 +14,5 @@
 ### Version 4.7.8 R7 2020-08-25
 - Corrección en el validador de documentos para factura de compra simplificado
 - Automatizacion de Simplificado
+- Corrección en el receptor para capturar los PDF
 
