@@ -1,10 +1,8 @@
 # Mareex Eleventa
 
-## Release
-
 ### [Regresar](https://jarscr.github.io/mareex/home#release)
 
-
+## Liberaciones
 ### Version 1 R1 2020-08-25
 ````
 * Boton para reconfigurar el conector
