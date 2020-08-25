@@ -11,7 +11,7 @@
 - Mejora en el receptor de IMAP para agregar notas de error
 - Nuevo modulo de Recepción Error que permite ver cuando no se registran los gastos
 
-### Version 4.7.8 R6 2020-08-25
+### Version 4.7.8 R7 2020-08-25
 - Corrección en el validador de documentos para factura de compra simplificado
 - Automatizacion de Simplificado
 
