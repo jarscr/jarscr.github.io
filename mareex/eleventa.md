@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/Estado-Desarrollo-orange.svg?style=for-the-badge)
+
 # Mareex Eleventa
 
 ### [Regresar](https://jarscr.github.io/mareex/home#release)

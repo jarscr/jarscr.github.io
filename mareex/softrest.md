@@ -1,3 +1,5 @@
+![Build Status](https://img.shields.io/badge/Estado-Desarrollo-orange.svg?style=for-the-badge)
+
 # Mareex Soft Restaurant 
 
 ### [Regresar](https://jarscr.github.io/mareex/home#release)
