@@ -6,7 +6,7 @@
 
 ## Release
 
-#### MareexPOS 1.2.9 R5 2020-08-25
+#### MareexPOS 1.2.9 R6 2020-08-25
 *URGENTE*
 - Se corrige el problema de que solo genera tiquetes
 
