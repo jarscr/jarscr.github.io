@@ -16,3 +16,6 @@
 - Automatizacion de Simplificado
 - Corrección en el receptor para capturar los PDF
 
+### Version 4.7.8 R8 2020-08-28
+- Se agrega un correo a la factura para que se envie a esa dirección, para los casos que una factura se divide en varios cliente y esta debe ser enviada a diferentes direcciones
+
