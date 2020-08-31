@@ -20,3 +20,6 @@
 - Se agrega un correo a la factura para que se envie a esa dirección, para los casos que una factura se divide en varios cliente y esta debe ser enviada a diferentes direcciones
 - Correccion reporte Compras Redondeo en Totales Gravados
 
+### Version 4.7.8 R9 2020-08-31
+- Anulacion de Factura de compras
+
