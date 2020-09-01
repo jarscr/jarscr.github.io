@@ -23,3 +23,6 @@
 ### Version 4.7.8 R9 2020-08-31
 - Anulacion de Factura de compras
 
+### Version 4.7.8 R10 2020-09-01
+- Generacion de Respaldos de documentos en la nube
+
