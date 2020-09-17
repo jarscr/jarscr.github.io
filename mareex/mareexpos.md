@@ -5,23 +5,12 @@
 ### [Regresar](https://jarscr.github.io/mareex/home#release)
 
 ## Liberaciones
-### Version 4.7.8 R6 2020-08-24
 
-- Reporte de Gastos ampliado
-- Mejora en el receptor de IMAP para agregar notas de error
-- Nuevo modulo de Recepción Error que permite ver cuando no se registran los gastos
-
-### Version 4.7.8 R7 2020-08-25
-- Corrección en el validador de documentos para factura de compra simplificado
-- Automatizacion de Simplificado
-- Corrección en el receptor para capturar los PDF
-
-### Version 4.7.8 R8 2020-08-28
-- Se agrega un correo a la factura para que se envie a esa dirección, para los casos que una factura se divide en varios cliente y esta debe ser enviada a diferentes direcciones
-- Correccion reporte Compras Redondeo en Totales Gravados
-
-### Version 4.7.8 R9 2020-08-31
-- Anulacion de Factura de compras
+### Version 4.8.0 2020-09-17
+- Generacion de consecutivos basado en historico de sistemas anteriores
+- Sistema de deteccion de faltante de datos regenera el consecutivo basado en el historico
+- Correccion de Reportes 
+- Generación de Reportes en PDF
 
 ### Version 4.7.9 2020-09-01
 - Generacion de Respaldos diarios
@@ -29,4 +18,25 @@
 - Compresion de Respaldos
 - Carga de Respaldos en la nube
 - Registro en la base de datos de los respaldos
+
+### Version 4.7.8 R9 2020-08-31
+- Anulacion de Factura de compras
+
+
+
+### Version 4.7.8 R8 2020-08-28
+- Se agrega un correo a la factura para que se envie a esa dirección, para los casos que una factura se divide en varios cliente y esta debe ser enviada a diferentes direcciones
+- Correccion reporte Compras Redondeo en Totales Gravados
+
+### Version 4.7.8 R7 2020-08-25
+- Corrección en el validador de documentos para factura de compra simplificado
+- Automatizacion de Simplificado
+- Corrección en el receptor para capturar los PDF
+
+
+### Version 4.7.8 R6 2020-08-24
+
+- Reporte de Gastos ampliado
+- Mejora en el receptor de IMAP para agregar notas de error
+- Nuevo modulo de Recepción Error que permite ver cuando no se registran los gastos
 
