@@ -6,6 +6,17 @@
 
 ## Liberaciones
 
+### Version 4.8.2 2020-10-9
+- Envio automatico de Notas de Crédito
+- Factución muestra el tipo de documento
+- Facturación muestra el total del documento + iva
+
+### Version 4.8.1 2020-10-2
+- Regenerar las lineas de recepcion
+- Ajustes en reporte de recepción
+- Descarga de Respaldos 
+
+
 ### Version 4.8.0 2020-09-17
 - Generacion de consecutivos basado en historico de sistemas anteriores
 - Sistema de deteccion de faltante de datos regenera el consecutivo basado en el historico
