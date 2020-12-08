@@ -5,6 +5,10 @@
 ### [Regresar](https://jarscr.github.io/mareex/home#release)
 
 ## Liberaciones
+### Version 1.2.3 R1 2020-12-09
+- Funcionalidad de Cabys
+- Cargador desde Excel de Codigos Cabys
+
 ### Version 1.2.0 R1 2020-10-09
 
 - Terminal Adicional (Caja)

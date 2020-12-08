@@ -5,7 +5,10 @@
 ### [Regresar](https://jarscr.github.io/mareex/home#release)
 
 ## Release
-#### MareexPOS 1.3.9 R9 2020-09-16
+#### MareexPOS 1.3.3 2020-12-02
+- Se agrega la funcion de cargar codigos Cabys
+
+#### MareexPOS 1.3.1 R9 2020-09-16
 - Se corrige el problema los documentos incorrectos en SoftHotel
 
 #### MareexPOS 1.2.9 R6 2020-08-25

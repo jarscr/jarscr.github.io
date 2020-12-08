@@ -6,6 +6,16 @@
 
 ## Liberaciones
 
+### Version 4.8.6 2020-12-8
+- Exoneraciones relacionadas a Clientes en SR
+- Notificacion de Recepcion de Facturas
+- Cabys en Factura de Compra
+- Envio por SendGrid correo certificado
+- Se corrige el nombre de Archivo en Recepción automatico
+
+### Version 4.8.5 2020-11-15
+- Codigos Cabys
+
 ### Version 4.8.2 2020-10-9
 - Envio automatico de Notas de Crédito
 - Factución muestra el tipo de documento
