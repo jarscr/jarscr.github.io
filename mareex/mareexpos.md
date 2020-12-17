@@ -5,6 +5,15 @@
 ### [Regresar](https://jarscr.github.io/mareex/home#release)
 
 ## Liberaciones
+### Version 4.8.7 2020-12-17
+- Reporte del Dashboard por mes presente
+- Reporte del Dashboard muestra error en Documento
+- Reporte de ventas totales muestra los IVA's soportados por factura
+- Reporte de ventas separa los documentos por moneda y por tipo, Colones y Dolares, Facturas-Tiquetes y Notas de Crédito
+- Corrige: Eleventa Syncronizador "SubTotal"
+- SoftHotel convierte el producto "PROPINA" en otros cargos
+- Edicion de Cabys incorrecto en Ver Factura
+- Reenvio de Documento a Hacienda desde Ver Factura cuando el estado es 4 (Pendiente)
 
 ### Version 4.8.6 2020-12-8
 - Exoneraciones relacionadas a Clientes en SR
