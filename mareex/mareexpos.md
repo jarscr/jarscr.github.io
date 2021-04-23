@@ -5,6 +5,16 @@
 ### [Regresar](https://jarscr.github.io/mareex/home#release)
 
 ## Liberaciones
+### Version 4.8.8 2021-04-23
+- Mejoras en Recepcion automatica, Reportes Recepcion
+- Cambio de Envio por SendGrid API
+- Procesar IVAS diferente
+- Email factura en PDF
+- Regenerar Incorrectas
+- Recepcion Masiva. Regenerador de Claves Masivo
+- Corrección Exoneracion de Servicios
+- Shopify corrección en traer Ordernes
+
 ### Version 4.8.7 2020-12-17
 - Reporte del Dashboard por mes presente
 - Reporte del Dashboard muestra error en Documento
