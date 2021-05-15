@@ -5,6 +5,13 @@
 ### [Regresar](https://jarscr.github.io/mareex/home#release)
 
 ## Liberaciones
+### Version 4.8.9 2021-05-14
+- Se agrega el Impuesto Código 99, Otros
+- Se corrige la clasificacion del Tipo de IVA
+- El reporte de recepción muestra el impuesto Otros
+- Receptor automatico que clasifica el impuesto otros
+- Archivo FIX para recalcular las lineas por facturas en recepción para Otros
+
 ### Version 4.8.8 2021-04-23
 - Mejoras en Recepcion automatica, Reportes Recepcion
 - Cambio de Envio por SendGrid API
